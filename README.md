@@ -8,7 +8,7 @@ The geometric Brownian motion model is widely used in finance to simulate the pr
 
 The formula for the geometric Brownian motion is as follows:
 
-$ dS=\mu⋅S⋅dt+\sigma⋅S⋅dW $
+$dS=\mu⋅S⋅dt+\sigma⋅S⋅dW$
 
 where:
 
